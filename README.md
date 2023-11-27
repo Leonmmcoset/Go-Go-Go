@@ -11,3 +11,9 @@ The game is made by Unity 2023
 **Leonmmcoset** -- game maker,block drawer
 **Y** -- player drawer
 **Nintento** -- BGM maker
+
+---
+
+## Warn
+
+**I probably won't update the files in the repository, which may be old.**
