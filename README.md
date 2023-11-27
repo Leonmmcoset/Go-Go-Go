@@ -17,3 +17,11 @@ The game is made by Unity 2023
 ## Warn
 
 **I probably won't update the files in the repository, which may be old. I'm only going to update what's in the release.**
+
+### I have these things that I am researching now, and there are big guys who can say it in my mailbox and help me solve it
+
+* [ ] Teleport
+* [ ] New scenes(in Unity)
+
+Made in China.
+
