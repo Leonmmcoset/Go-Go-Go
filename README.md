@@ -17,7 +17,8 @@ The game is made by Unity 2023
 ## Warn
 
 **I probably won't update the files in the repository, which may be old. I'm only going to update what's in the release.**
-
+E-Mail:
+leonmmcoset@qq.com or testmod@qq.com
 ### I have these things that I am researching now, and there are big guys who can say it in my mailbox and help me solve it
 
 * [ ] Teleport
