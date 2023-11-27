@@ -16,4 +16,4 @@ The game is made by Unity 2023
 
 ## Warn
 
-**I probably won't update the files in the repository, which may be old.**
+**I probably won't update the files in the repository, which may be old. I'm only going to update what's in the release.**
