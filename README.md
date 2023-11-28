@@ -25,8 +25,8 @@ leonmmcoset@qq.com or testmod@qq.com
 
 ### I have these things that I am researching now, and there are big guys who can say it in my mailbox and help me solve it
 
-* [ ] Teleport
 * [ ] New scenes(in Unity)
+* [ ] Update game version to:2.x
 
 Made in China.
 
