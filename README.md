@@ -30,5 +30,7 @@ leonmmcoset@qq.com or testmod@qq.com
 * [ ] Add beginner level
 * [ ] Buy it on Steam!
 
+You can make a second creation, but you have to add the game version number or the game name in front of: **NMBM(Not Made By Maker)** and indicate in the game that it is the second creation of my game.
+
 Made in China.
 
